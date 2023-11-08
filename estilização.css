@@ -1,0 +1,48 @@
+html{
+
+    font-size: 20px;
+    color:#3F2E3E;
+    color: 3F2E3E;
+    background-color:antiquewhite;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+   
+}
+.abas-text{
+    color: 3F2E3E;
+    background-color:darkseagreen;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 8px;
+   
+} 
+img{
+    border-color:#3F2E3E;
+    border-style: solid;
+    border-width: 5px;
+    padding: 5px;
+    margin-top:
+}
+h1{ margin-left: 120px;
+    
+}
+
+#name-site{
+    margin-top: -100px;
+    margin-bottom: 65px;
+   
+} 
+
+.primebox{
+    display: inline-block;
+}
+.primebox h1{
+    position: absolute;
+    background-color: aquamarine;
+    width: auto;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+
+
+h2{font-size: 25px;}
